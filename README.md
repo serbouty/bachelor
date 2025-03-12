@@ -10,7 +10,7 @@ Couverture des situations d'apprentissage et d'évaluation (SAÉ) du B.U.T Infor
 - [IBM Topics](https://www.ibm.com/topics)
 - [Microsoft Learn](https://learn.microsoft.com/en-us/)
 
-## Commun
+## BUT 1 : Commun
 
 ### Semestre 1
 
@@ -30,7 +30,7 @@ Couverture des situations d'apprentissage et d'évaluation (SAÉ) du B.U.T Infor
 - [x] SAÉ 2.05 : Gestion d’un projet : [RNCP5927](https://www.francecompetences.fr/recherche/rncp/5927/)
 - [ ] SAÉ 2.06 : Organisation d’un travail d’équipe : [Pro Git](https://github.com/serbouty/pro-git)
 
-## Parcours A : Réalisation d'Applications : Conception, Développement, Validation
+## BUT 2 : Parcours A : Réalisation d'Applications
 
 ### Semestre 3
 
@@ -39,6 +39,8 @@ Couverture des situations d'apprentissage et d'évaluation (SAÉ) du B.U.T Infor
 ### Semestre 4
 
 - [ ] SAÉ 4.Real.01 : Développement d’une application complexe : [Health Patient Portal](https://docs.oracle.com/en/industries/health/health-patient-portal/)
+
+## BUT 3 : Parcours A : Réalisation d'Applications
 
 ### Semestre 5
 
