@@ -5,7 +5,7 @@
 - [ ] R5.01 : Initiation au management d’une équipe de projet informatique.
 - [ ] R5.02 : Projet personnel et professionnel.
 - [ ] R5.03 : Politique de communication.
-- [ ] R5.Real.04 : Qualité algorithmiquen.
+- [ ] R5.Real.04 : Qualité algorithmique.
 - [ ] R5.Real.05 : Programmation avancée.
 - [ ] R5.Real.06 : Sensibilisation à la programmation multimédia.
 - [ ] R5.Real.07 : Automatisation de la chaîne de production.

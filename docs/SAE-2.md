@@ -12,6 +12,7 @@
 - [ ] R2.08 : Outils numériques pour les statistiques descriptives.
 - [ ] R2.09 : Méthodes numériques.
 - [ ] R2.10 : Introduction à la gestion des systèmes d’information.
+- [ ] R2.11 : : Introduction au droit.
 - [ ] R2.12 : Anglais.
 - [ ] R2.13 : Communication technique.
 - [ ] R2.14 : Projet professionnel et personnel.
