@@ -9,7 +9,7 @@
 
 - [ ] AC13.01 | Identifier les différentes composants d'un système numérique.
 - [ ] AC13.02 | Utiliser les fonctionnalités de base d'un système multitâches / multiutilisateurs.
-- [ ] AC13.03 | Installer et configurer un système d'exploitation et des outils de développement.
+- [x] AC13.03 | Installer et configurer un système d'exploitation et des outils de développement.
 - [ ] AC13.04 | Configurer un poste de travail dans un réseau d'entreprise.
 
 ## Niveau 2

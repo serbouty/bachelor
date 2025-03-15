@@ -10,7 +10,7 @@
 - [ ] AC16.01 | Appréhender l'écosystème numérique.
 - [ ] AC16.02 | Découvrir les aptitudes requises selon les différents secteurs informatiques.
 - [ ] AC16.03 | Identifier les statuts, les fonctions et les rôles de chaque membre d'une équipe pluridisciplinaire.
-- [ ] AC16.03 | Acquérir les compétences interpersonnelles pour travailler en équipe.
+- [ ] AC16.04 | Acquérir les compétences interpersonnelles pour travailler en équipe.
 
 ## Niveau 2
 
