@@ -1,5 +1,22 @@
 <h1 align="center">Bachelor Universitaire de Technologie</h1>
 
+<p align="center">
+    <img src="docs/but.svg" height="360" />
+</p>
+
+<p align="center">
+    <a href="" alt="">
+        <img src="https://img.shields.io/badge/java-21-orange?logo=openjdk" /></a>
+    <a href="" alt="">
+        <img src="https://img.shields.io/badge/c-23-blue?logo=c" /></a>
+    <a href="" alt="">
+        <img src="https://img.shields.io/badge/python-3.13-yellow?style=flat&logo=python" /></a>
+    <a href="" alt="">
+        <img src="https://img.shields.io/badge/license-mit-white?style=flat&logo=github" /></a>
+    <a href="" alt="">
+        <img src="https://img.shields.io/badge/status-active-green?style=flat&logo=github" /></a>
+</p>
+
 ## Support
 
 - [BUT Informatique - Programme national](docs/PN-LP-BUT-INFO-2022.pdf)
