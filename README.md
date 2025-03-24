@@ -1,4 +1,4 @@
-# Bachelor Universitaire de Technologie
+<h1 align="center">Bachelor Universitaire de Technologie</h1>
 
 ## Support
 
@@ -47,12 +47,12 @@
 
 ## Compétences - Composantes Essentielles (CE)
 
-- [ ] [CE1 : Réaliser](docs/rdc/RDC-1.md)
-- [ ] [CE2 : Optimiser](docs/rdc/RDC-2.md)
-- [ ] [CE3 : Administrer](docs/rdc/RDC-3.md)
-- [ ] [CE4 : Gérer](docs/rdc/RDC-4.md)
-- [ ] [CE5 : Conduire](docs/rdc/RDC-5.md)
-- [ ] [CE6 : Collaborer](docs/rdc/RDC-6.md)
+- [ ] [CE1 - Réaliser](docs/rdc/RDC-1.md)
+- [ ] [CE2 - Optimiser](docs/rdc/RDC-2.md)
+- [ ] [CE3 - Administrer](docs/rdc/RDC-3.md)
+- [ ] [CE4 - Gérer](docs/rdc/RDC-4.md)
+- [ ] [CE5 - Conduire](docs/rdc/RDC-5.md)
+- [ ] [CE6 - Collaborer](docs/rdc/RDC-6.md)
 
 ## Licence
 
