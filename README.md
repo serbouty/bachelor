@@ -8,6 +8,8 @@
     <a href="" alt="">
         <img src="https://img.shields.io/badge/java-21-orange?logo=openjdk" /></a>
     <a href="" alt="">
+        <img src="https://img.shields.io/badge/jdk-temurin-orange?logo=openjdk" /></a>
+    <a href="" alt="">
         <img src="https://img.shields.io/badge/c-23-blue?logo=c" /></a>
     <a href="" alt="">
         <img src="https://img.shields.io/badge/python-3.13-yellow?style=flat&logo=python" /></a>
