@@ -1,0 +1,10 @@
+# Default
+*                   text=auto
+
+# Documents
+*.md                text diff=markdown
+*.pdf               binary
+
+# Git
+.gitattributes      text
+.gitignore          text
