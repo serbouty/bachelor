@@ -1,10 +1,10 @@
-<h1 style="text-align  : center;">Bachelor Universitaire de Technologie</h1>
+<h1 align="center">Bachelor Universitaire de Technologie</h1>
 
-<p style="text-align  : center;">
+<p align="center">
     <img src="docs/but.webp" height="300" width="300" alt="" />
 </p>
 
-<p style="text-align  : center;">
+<p align="center">
     <a href="">
         <img src="https://img.shields.io/badge/java-21-orange?logo=openjdk" alt="" /></a>
     <a href="">
