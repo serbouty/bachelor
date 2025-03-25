@@ -1,10 +1,11 @@
 # Default
 *                   text=auto
 
-# Documents
-*.md                text diff=markdown
-*.pdf               binary
-
-# Git
+# Configuration
 .gitattributes      text
 .gitignore          text
+
+# Documentation
+*.md                text diff=markdown
+*.pdf               binary
+*.webp              binary
