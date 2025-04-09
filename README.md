@@ -1,4 +1,4 @@
-<h1 align="center">BUT - Informatique : Réalisation d'Applications</h1>
+<h1 align="center">BUT Informatique : Réalisation d'Applications</h1>
 
 <p align="center">
     <img src="docs/logo_but.png" width="348" height="400" alt="" />
@@ -6,9 +6,17 @@
 
 <p align="center">
     <a href="">
+        <img src="https://img.shields.io/badge/c-23-blue?style=flat&logo=c" alt="" /></a>
+    <a href="">
+        <img src="https://img.shields.io/badge/gcc-14.2-blue?style=flat&logo=c" alt="" /></a>
+    <a href="">
+        <img src="https://img.shields.io/badge/cmake-3.31-blue?style=flat&logo=cmake" alt="" /></a>
+    <a href="">
+        <img src="https://img.shields.io/badge/python-3.13-yellow?style=flat&logo=python" alt="" /></a>
+    <a href="">
         <img src="https://img.shields.io/badge/license-mit-white?style=flat&logo=github" alt="" /></a>
     <a href="">
-        <img src="https://img.shields.io/badge/status-in_planning-lightgrey?style=flat&logo=github" alt="" /></a>
+        <img src="https://img.shields.io/badge/status-active-green?style=flat&logo=github" alt="" /></a>
 </p>
 
 ## Support
@@ -31,6 +39,10 @@
 - [CE6 : Collaborer](docs/annexes/ce_6_collaborer.md)
 
 ## Semestre 1
+
+### Réalisations
+
+- [CS50x 2025](https://github.com/serbouty/cs50x)
 
 ### Situations d'Apprentissage et d'Évaluation
 
